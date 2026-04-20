@@ -1,12 +1,14 @@
-# Flutter Health Dashboard UI
+# Flutter Fintech UI
 
-A clean and modern Flutter health dashboard UI built for portfolio and Fiverr client showcase.
+A premium dark fintech Flutter UI built for portfolio and Fiverr client showcase.
 
 ## Features
-- Pixel-perfect UI
-- Dashboard with stats cards
-- Activity analytics screen
-- Profile screen
+- Dark premium dashboard
+- Balance card with gradient design
+- Quick actions
+- Transaction history screen
+- Send money screen
+- Profile and settings screen
 - Bottom navigation
 - Reusable widgets
 
@@ -17,20 +19,4 @@ A clean and modern Flutter health dashboard UI built for portfolio and Fiverr cl
 - Google Fonts
 
 ## Purpose
-Built to showcase Figma/XD/PSD to Flutter conversion skills.
-
-## Screenshots
-
-### 🏠 Home Dashboard
-![Home](assets/screenshots/home1.jpg)
-![Home](assets/screenshots/home2.jpg)
-![Home](assets/screenshots/home3.jpg)
-![Home](assets/screenshots/home4.jpg)
-
-### 📊 Activity Analytics
-![Activity](assets/screenshots/activity.jpg)
-![Activity](assets/screenshots/activity1.jpg)
-
-### 👤 Profile Screen
-![Profile](assets/screenshots/profileone.jpg)
-![Profile](assets/screenshots/profile2.jpg)
+Built to showcase pixel-perfect Figma/XD/PSD to Flutter conversion skills for modern fintech and banking app interfaces.
