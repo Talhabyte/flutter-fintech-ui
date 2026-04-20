@@ -20,3 +20,33 @@ A premium dark fintech Flutter UI built for portfolio and Fiverr client showcase
 
 ## Purpose
 Built to showcase pixel-perfect Figma/XD/PSD to Flutter conversion skills for modern fintech and banking app interfaces.
+
+
+## Screenshots
+
+### 💳 Dashboard
+
+![Dashboard](assets/screenshots/homeone.jpg)
+![Dashboard](assets/screenshots/homwtwo.jpg)
+![Dashboard](assets/screenshots/homethree.jpg)
+
+---
+
+### 💸 Transactions
+
+![Transactions](assets/screenshots/transactionsone.jpg)
+![Transactions](assets/screenshots/transactionstwo.jpg)
+
+---
+
+### 💰 Send Money
+
+![Send Money](assets/screenshots/paymentone.jpg)
+![Send Money](assets/screenshots/paymenttwo.jpg)
+
+---
+
+### 👤 Profile
+
+![Profile](assets/screenshots/profileone.jpg)
+![Profile](assets/screenshots/profiletwo.jpg)
